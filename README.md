@@ -1,12 +1,10 @@
-# ToDo Application
+# The Pig Game
 
-Todo Application is saving tasks into local storage and has expiration feature.
+This is a javascript game with Math.random() function and the other js basics features.
 
-![ToDoApp React Redux](https://komornyi.space/static/img/projects/12.png)
+![ToDoApp React Redux](https://komornyi.space/static/img/projects/2.png)
 
 ### Technologies
 
--   ReactJS;
--   Redux Toolkit;
--   Styled Components;
--   Motion Library;
+-   Javascript;
+-   Bootstrap;
