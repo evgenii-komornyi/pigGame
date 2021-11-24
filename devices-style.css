@@ -1,0 +1,146 @@
+@media (min-width: 280px) and (max-width: 639px) {
+    main {
+        width: 100%;
+        height: auto;
+    }
+    .player {
+        padding: 20px;
+        display: block;
+    }
+    .name {
+        font-size: 1rem;
+        text-align: center;
+    }
+    .score {
+        font-size: 3rem;
+        text-align: center;
+    }
+    .current {
+        width: 100%;
+        padding: 1rem;
+    }
+    .current-label {
+        font-size: 1rem;
+    }
+    .current-score {
+        font-size: 3.5rem;
+    }
+    .btn {
+        font-size: 1rem;
+    }
+    .btn::first-letter {
+        font-size: 1rem;
+        margin-right: 0.7rem;
+    }
+    .btn--new {
+        top: 1rem;
+    }
+    .btn--roll {
+        top: 10rem;
+    }
+    .btn--hold {
+        top: 15rem;
+    }
+    .dice {
+        top: 5rem;
+        height: 3rem;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 767px) { 
+    main {
+        width: 100%;
+        height: auto;
+    }
+    .player {
+        padding: 20px;
+        display: block;
+    }
+    .name {
+        font-size: 1rem;
+        text-align: center;
+    }
+    .score {
+        font-size: 3rem;
+        text-align: center;
+    }
+    .current {
+        width: 100%;
+        padding: 1rem;
+    }
+    .current-label {
+        font-size: 1rem;
+    }
+    .current-score {
+        font-size: 3.5rem;
+    }
+    .btn {
+        font-size: 1rem;
+    }
+    .btn::first-letter {
+        font-size: 1rem;
+        margin-right: 0.7rem;
+    }
+    .btn--new {
+        top: 1rem;
+    }
+    .btn--roll {
+        top: 10rem;
+    }
+    .btn--hold {
+        top: 15rem;
+    }
+    .dice {
+        top: 5rem;
+        height: 3rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1025px) {  
+    main {
+        width: 100%;
+        height: auto;
+    }
+    .player {
+        padding: 20px;
+        display: block;
+    }
+    .name {
+        font-size: 1rem;
+        text-align: center;
+    }
+    .score {
+        font-size: 3rem;
+        text-align: center;
+    }
+    .current {
+        width: 100%;
+        padding: 1rem;
+    }
+    .current-label {
+        font-size: 1rem;
+    }
+    .current-score {
+        font-size: 3.5rem;
+    }
+    .btn {
+        font-size: 1rem;
+    }
+    .btn::first-letter {
+        font-size: 1rem;
+        margin-right: 0.7rem;
+    }
+    .btn--new {
+        top: 1rem;
+    }
+    .btn--roll {
+        top: 10rem;
+    }
+    .btn--hold {
+        top: 15rem;
+    }
+    .dice {
+        top: 5rem;
+        height: 3rem;
+    }
+}
